@@ -67,3 +67,6 @@ bower_components/
 
 # Temporary files created by Metro
 /tmp/metro-*
+
+# Project-specific directories
+/templates
